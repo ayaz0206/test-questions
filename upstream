@@ -1,1 +1,1 @@
-Explain what the "Upstream" remote is usually used for, in your own words.
+Sometimes, when we work with others on projects, we usually use the upstream command to push the work to their repository. This is pushing the changes made locally to the main project account so every one can have the changes. 
