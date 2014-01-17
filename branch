@@ -1,1 +1,3 @@
-Explain what a branch is, in your own words
+Git branch allows us to work on multiple projects at the same time. For example, if we are maintaining a website and we keep on making changes to it, we usually push the changes to the main branch. What if there is a need to include a new feature but that feature is currently unstable and there is further testing needed. To do that, we can create a new branch, which creates two points for the project. One is where the project actually is, and the second is the point from where the branch is created. We can then shift to the new branch by using the checkout command and any changes that we make and commit to this branch will not affect the content that is in the master branch.
+
+This enables us to test out the new feature and maintain the website in a regular way without it affecting any part of the website or project.
